@@ -1,4 +1,7 @@
 # AWS - github&jenkins 연동
+### 서버 구성 drawed by EG
+![image](https://github.com/yuri-notfragile/jenkins_withEC2/assets/131278132/178d8093-a9d2-4cc3-91cd-c433a5c097c6)
+
 
 ### 보안 그룹 설정 - Jenkins 사용을 위한 인바운드 8080 포트 열기
     - 인바운드 규칙 편집
