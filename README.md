@@ -1,5 +1,5 @@
 # AWS - github&jenkins 연동
-### 서버 구성 drawed by EG
+### 서버 구성 drawed by jin
 ![image](https://github.com/yuri-notfragile/jenkins_withEC2/assets/131278132/178d8093-a9d2-4cc3-91cd-c433a5c097c6)
 
 
