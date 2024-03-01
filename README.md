@@ -85,15 +85,15 @@ pipeline {
  1. GitHub project 선택
  2. GitHub hook tigger for GITScm polling 선택
  3. 파이프라인
- pipeline syntax 클릭
+ 
+* pipeline syntax 클릭
+* pipeline syntax 페이지 
+* steps에서 sshPublisher: Send build artifacts over SSH 클릭
 
- pipeline syntax 페이지 
- steps에서 sshPublisher: Send build artifacts over SSH 클릭
-
- SSH Publishers 탭
- Transfers 
- Source files: build/libs/*SNAPSHOT.jar
- Remove prefix: build/libs
- Remote directory: /폴더이름(test1)
- Exec commend: 적당한 shell 명령어 넣기
- Gnearate Pipeline Script 클릭
+1. SSH Publishers 탭
+2. Transfers 
+3. Source files: build/libs/*SNAPSHOT.jar
+4. Remove prefix: build/libs
+	* Remote directory: /폴더이름(test1)
+5. Exec commend: 적당한 shell 명령어 넣기
+6. Gnearate Pipeline Script 클릭
