@@ -81,7 +81,7 @@ pipeline {
 }
 ```
 
-### With SSH Publishers
+### With SSH Publishers - 원격 서버 배포
  1. GitHub project 선택
  2. GitHub hook tigger for GITScm polling 선택
  3. 파이프라인
